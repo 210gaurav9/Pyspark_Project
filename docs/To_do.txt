@@ -1,0 +1,2 @@
+S3 sales data gets deleted in aws after the error files deletion code.
+Need to modify the upload to sales data code as it uploads into sales_data//1746473// location.
